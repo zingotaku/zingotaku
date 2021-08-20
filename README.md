@@ -19,5 +19,5 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Zing-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Zing-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Zing-paz" height="50" width="60" src="https://cdn.discordapp.com/attachments/875214499756535838/878073762568863754/ghibli-ghiblicore.gif">
+  <img align="right" alt="Zing-paz" height="400" width="500" src="https://cdn.discordapp.com/attachments/875214499756535838/878073762568863754/ghibli-ghiblicore.gif">
 </div>
