@@ -1,4 +1,7 @@
 ### Hi, my name is Zing, and I am an amateur programmer. 👋
+<img alt="GIF2" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+
+##
 
 - 🔭 I’m currently working on freelances.
 - 🌱 I’m currently learning C, Assembly and TypeScript.
@@ -20,5 +23,4 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Zing-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Zing-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Zing-paz" height="451" width="549" src="https://cdn.discordapp.com/attachments/875214499756535838/878073762568863754/ghibli-ghiblicore.gif">
 </div>
