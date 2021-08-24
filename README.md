@@ -25,3 +25,7 @@
   <img align="center" alt="Zing-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Zing-Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
 </div>
+
+##
+
+![](https://komarev.com/ghpvc/?username=zingotaku)
