@@ -9,7 +9,7 @@
 - 🧳 Where i live: Brasilia, Brazil.
 - ⚡ Fun fact: I know a little bit of java.
 - 🥡 Contact: my e-mail: zingvirus@gmail.com, or my discord: Zing#1978
-- ❤️ OS: Arco with XFCE and BSPWM.
+- ❤️ OS: ArchLinux with KDE Plasma and BSPWM
 
  <div>
   <a href="https://github.com/zingotaku">
