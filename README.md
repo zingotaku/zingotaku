@@ -3,13 +3,19 @@
 
 ##
 
-- 🔭 I’m currently working on freelances.
-- 🌱 I’m currently learning C, Assembly and Golang.
+- 🌱 I’m currently learning C, Assembly, Golang and Rust.
 - 📫 How to reach me: My email or discord.
 - 🧳 Where i live: Brasilia, Brazil.
-- ⚡ Fun fact: like Rust
-- 🥡 Contact: my e-mail: zingvirus@gmail.com, or my discord: Zing#1978
+- 🥡 Contact: my e-mail: my discord: Zing#1978
 - ❤️ OS: ArchLinux with I3WM
+
+```rust
+const HELLO_WORLD: &str = "Hello, Github";
+
+fn main() {
+  println!("{}", Hello_World);
+}
+```
 
  <div>
   <a href="https://github.com/zingotaku">
