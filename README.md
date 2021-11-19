@@ -1,6 +1,6 @@
 ### Hi, my name is Zing, and I am an amateur programmer. 👋
 <!--<img alt="GIF2" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>-->
-<img alt="GIF2" src="./giphy.gif" width = 600/>
+<img alt="GIF2" src="./giphy.gif" width = 400/>
 
 ##
 
