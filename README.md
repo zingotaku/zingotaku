@@ -10,11 +10,11 @@
 - 🥡 Contact: my e-mail: my discord: Zing#1978
 - ❤️ OS: ArchLinux with I3WM
 
-```rust
-const HELLO_WORLD: &str = "Hello, Github";
+```c
+#define Hello_World "Hello, World!"
 
-fn main() {
-  println!("{}", Hello_World);
+int main() {
+  printf(Hello_World);
 }
 ```
 
