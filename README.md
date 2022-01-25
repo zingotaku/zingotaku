@@ -11,6 +11,7 @@
 - ❤️ OS: ArchLinux with I3WM
 
 ```c
+#include <stdio.h>
 #define Hello_World "Hello, World!"
 
 int main() {
