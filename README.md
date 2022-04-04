@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning C, Assembly, Golang and Rust.
 - 📫 How to reach me: My email or discord.
-- 🧳 Where i live: Brasilia, Brazil.
+- 🧳 Where i live: localhost.
 - 🥡 Contact: my e-mail: my discord: Zing#1978
 - ❤️ OS: ArchLinux with I3WM
 
