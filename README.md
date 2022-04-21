@@ -1,4 +1,4 @@
-### Hi, my name is Zing, and I am an amateur programmer. 👋
+### Hi, my name is Zing, and I am an amateur hacker and programmer. 👋
 <!--<img alt="GIF2" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>-->
 <img alt="GIF2" src="./giphy.gif" width = 300/>
 
