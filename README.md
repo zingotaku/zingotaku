@@ -4,17 +4,11 @@
 
 ##
 
-- 🌱 I’m currently learning C, Assembly and Kernel Exploitation.
-
-```c
-#include <stdio.h>
-#define Hello_World "Hello, World!"
-
-int main() {
-  printf(Hello_World);
-}
-```
+- 🌱 I’m currently focusing on Rust and Binary exploitation.
+- 💡 Writing papers at https://templo7k.ninja!
 
 ##
 
 ![](https://komarev.com/ghpvc/?username=zingotaku)
+![](https://github-readme-stats.vercel.app/api?username=zingotaku)
+
