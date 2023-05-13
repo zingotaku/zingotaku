@@ -9,5 +9,6 @@
 
 ##
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zingotaku&show_icons=true&theme=gruvbox)
 ![](https://github-readme-stats.vercel.app/api?username=zingotaku&show_icons=true&theme=gruvbox)
 ![](https://komarev.com/ghpvc/?username=zingotaku)
