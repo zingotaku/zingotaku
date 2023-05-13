@@ -9,6 +9,5 @@
 
 ##
 
-![](https://komarev.com/ghpvc/?username=zingotaku)
 ![](https://github-readme-stats.vercel.app/api?username=zingotaku)
-
+![](https://komarev.com/ghpvc/?username=zingotaku)
